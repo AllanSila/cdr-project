@@ -1,0 +1,19 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/carrossel.css");
+@import url("styles/topicos.css");
+
+
+:root{
+    --cor-de-fundo: #EBECEE;
+    --preto-cdr: #181818;
+    --branco:#ffffff;
+    --amarelo-cdr:#f7cb45 ;
+    --roxo-cdr: #7850B3;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--cor-de-fundo);
+}
